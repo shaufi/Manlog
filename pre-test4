@@ -1,0 +1,34 @@
+1. - Production planning organizational structure 
+   - Production planning master data
+   - Production planning processes
+   
+2. - Relational Master adalah master data yang bahannya untuk setiap depatemen dan data ini harus relevan 
+     semua informasinya guna kebutuhan aliran transaksional
+   - Bill of Materials adalah komponen utama yang digunakan untuk produksi barang jadi sesuai aturan master 
+     production schedule
+   - Work centers adalah lokasi dimana value-added bekerja secara asosiasi dengan proses kerja manufaktur
+
+3.   Bill of Material adalah definisi produk akhir yang terdiri dari daftar item, bahan, atau material yang
+     diperlukan  untuk merakit, mencampur  atau memproduksi  produk akhir.
+     manfaat:
+     - Sebagai alat pengendali produksi yang menspesifikasikan bahan-bahan kandungan yang penting dari suatu 
+       produk
+     - Untuk peramalan (forecasting) barang yang keluar masuk dan inventori maupun transaksi produksi 
+     - Menjamin bahwa jumlah bahan yang tepat telah dikirim ke tempat yang tepat pada waktu yang tepat
+
+4.   sistem informasi berbasis komputer yang didisain untuk memesan dan menjadwalkan permintaan (raw material,
+     komponen dan sub assemblies) dengan cara yang terkoordinasi.(Oden,et al., 1998)
+     
+5. down
+   1.  work centers
+   3.  forecasting
+   4.  master data
+   5.  processes
+   7.  demand
+  
+  accros
+   2.  BOM
+   6.  routing
+   8.  single
+   9.  MPS
+   10. Gudang
